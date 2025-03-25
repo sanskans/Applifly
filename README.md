@@ -2,7 +2,6 @@
 
 **Do something better with your time.**
 
-Link to the website: https://kshitijdhyani.com/appliFLY/
 
 ![appliFLY_Banner](appliFLY_banner.png)
 
@@ -83,13 +82,5 @@ No, if you have already applied to some position, the program will simply skip t
 
 ## Made By
 
-Made with ❤️ By @Kshitij Dhyani
+Made with ❤️ By @Sanskriti Kansal
 
-**Here are my Socials**:
-Linkedin: https://www.linkedin.com/in/kshitijdhyani/
-
-Twitter: https://twitter.com/kshitij_dhyani
-
-Portfolio Website: https://kshitijdhyani.com/
-
-Github: https://github.com/wimpywarlord/
