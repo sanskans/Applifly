@@ -9,13 +9,12 @@ This python script will fill **ALL** the jobs listed on the [ASU on campus job p
 
 # How to run the script.
 
-1. Visit the [appliFLY](https://kshitijdhyani.com/appliFLY/) website.
-2. Download the script file (Connect with me as well, while you are at it 😉).
-3. `Unzip` the file. This will create a `appliFly` folder containing 3 files inside. Namely `requirements.txt`, `appliFly.py`, and `env.txt`.
-4. Create a `.env` file within the `appliFly` folder, and copy all the content from the `env.txt` file into the `.env` file.
-5. Fill the details asked in the `.env` file.
-6. Run: `pip install -r requirements.txt` to install all dependency. This command must be execute while you are present in the `appliFly` directory. If you face any difficulties in this step, please open a issue [here](https://github.com/wimpywarlord/appliFLY/issues), I will be sure to assist you.
-7. Run: `python appliFly.py` to start the script.
+1. Download the script file (Connect with me as well, while you are at it 😉).
+2. `Unzip` the file. This will create a `appliFly` folder containing 3 files inside. Namely `requirements.txt`, `appliFly.py`, and `env.txt`.
+3. Create a `.env` file within the `appliFly` folder, and copy all the content from the `env.txt` file into the `.env` file.
+4. Fill the details asked in the `.env` file.
+5. Run: `pip install -r requirements.txt` to install all dependency. This command must be execute while you are present in the `appliFly` directory.
+6. Run: `python appliFly.py` to start the script.
 
 # Known Issue and Fix.
 
@@ -42,14 +41,14 @@ The FIX is [here](https://github.com/wimpywarlord/appliFLY/issues/9).
 
 After the script starts, it will ask the you to **one time** authorise the DUO double authentication. Authorize that and let the script run until it fills up all the available job listing.
 
-If you have any doubts or questions. Please create a issue [here](https://github.com/wimpywarlord/appliFLY/issues), and I will make sure to answer it.
+If you have any doubts or questions. Please create a issue, and I will make sure to answer it.
 
 ## NOTICE
 
 - Apply to at-least 1 job opening manually before running the script
 - You will need to 1 time authenticate using DUO. Make sure you have your phone with you.
 - If the script crashes for any reason. Simply Restart It. It will work the next time, give it a few tries.
-- In case of errror/crash, document the error and report to the developer @https://github.com/wimpywarlord/appliFLY/issues.
+- In case of errror/crash, document the error and report to the developer 
 - If you have already applied for a job, the script will skip it.
 
 ## FAQ
