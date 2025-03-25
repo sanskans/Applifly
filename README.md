@@ -3,7 +3,7 @@
 **Do something better with your time.**
 
 
-![appliFLY_Banner](appliFLY_banner.png)
+![appliFLY_Banner]
 
 This python script will fill **ALL** the jobs listed on the [ASU on campus job portal](https://students.asu.edu/employment/search) automatically. Just let the script run for 30 mins.
 
