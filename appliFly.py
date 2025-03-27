@@ -18,8 +18,7 @@ try:
   # ! Make sure you have installed all the dependencies:
   # Run : `pip install -r requirements.txt` to install all dependency.
 
-  print("Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ Kꜱʜɪᴛɪᴊ Dʜʏᴀɴɪ");
-  print("@https://github.com/wimpywarlord")
+  print("Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ Sanskriti Kansal");
 
   print('\n')
 
@@ -36,8 +35,7 @@ try:
   print('____________NOTES____________')
   print("1. You will need to 1 time authenticate using DUO. Make sure you have your phone with you.")
   print("2. If the script crashes for any reason. Simply Restart It. It will work the next time, give it a few tries.")
-  print("3. In case of errror, document the error and report to the github repository @https://github.com/wimpywarlord/appliFLY/issues")
-  print("4. If you have already applied for a job, the script will skip it.")
+  print("3. If you have already applied for a job, the script will skip it.")
 
   print('\n')
 
