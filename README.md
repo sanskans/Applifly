@@ -26,7 +26,6 @@ If you face any of the following issues:
 
 - ![known_issue_2](known_issue_2.png)
 
-The FIX is [here](https://github.com/wimpywarlord/appliFLY/issues/9).
 
 **Checklist before running the script:**
 
